@@ -15,7 +15,10 @@ public class Practice {
      */
     public static void main(String[] args) {
         System.out.println("Some Sample text"); // this is the first change I made
-        System.out.println("hello there"); // this is the second change I made
+        System.out.println("hello there");// this is the second change I made
+        
+        int x = 100;
+        System.out.println(x);
     }
     
 }
